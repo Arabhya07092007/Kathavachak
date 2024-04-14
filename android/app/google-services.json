@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1046832765128",
+    "firebase_url": "https://kathavachak-95a17-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kathavachak-95a17",
+    "storage_bucket": "kathavachak-95a17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046832765128:android:9ba71e41889afb7cff2dfd",
+        "android_client_info": {
+          "package_name": "com.kathavachak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046832765128-dr4p292okha0cjuir0vnt79p7nuap61j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kathavachak",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1046832765128-s5eanh2c73q2b6pc1d8h39urm8a489hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9l-iRErgI4c-ncaQknlBuIg-iOstReqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046832765128-s5eanh2c73q2b6pc1d8h39urm8a489hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
